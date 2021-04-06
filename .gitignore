@@ -1,5 +1,6 @@
 
 # Django stuff:
+###
 *.sqlite3
 media/
 __pycache__.*
