@@ -1,6 +1,5 @@
 
 # Django stuff:
-local_settings.py
 *.sqlite3
 media/
 __pycache__.*
